@@ -1,0 +1,15 @@
+{
+    "name": "Landing PWA",
+    "short_name": "Landing",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Landing PWA",
+    "icons": [
+      {
+        "src": "imagenes/icono.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
